@@ -1,0 +1,146 @@
+/* #carouselExampleControls{
+    height: 250px;
+}
+
+.d-block {
+    height: 250px;
+}
+
+
+.person_icon {
+
+  font-size: 25px;
+
+}
+
+
+
+
+li.nav-item {
+
+  margin-left: 50px;
+
+}
+
+
+
+
+.navbar-brand {
+
+  font-size: 2em;
+
+  font-style: "comic";
+
+}
+
+
+
+
+.nav-item {
+
+  font-size: 20px;
+
+}
+
+
+
+
+header {
+
+
+background: url(../images/bg.avif);
+
+background-repeat: no-repeat;
+
+background-size: 100% 100%;
+}
+
+
+
+
+.tagline {
+
+  display: block;
+
+  color: white;
+
+  margin-left: 1.1em;
+
+  font-size: 4em;
+
+}
+
+
+
+
+header h1:nth-child(1) {
+
+  margin-top: 10px;
+
+}
+
+
+
+
+.navbar {
+
+  background-color: gray;
+
+}
+
+
+
+
+a.navbar-brand {
+
+  color: white;
+
+}
+
+
+
+
+a.nav-link {
+
+  color: white;
+
+}
+
+
+
+
+button.navbar-toggler {
+
+  color: white;
+
+}
+
+
+
+
+span.navbar-toggler-icon {
+
+  color: white;
+
+}
+
+ */
+
+.cont-section{
+    background-image: url("/images/about2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.5;
+     */
+     filter: brightness(70%);
+    /* height: 500px; */
+}
+
+.cor-img{
+    height: 300px !important;
+}
+
+.prod-img{
+    height: 200px;
+}
